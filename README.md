@@ -14,6 +14,6 @@ This project is made for Educational purpose only. I have no problem if you kang
 If you like my work you can Support me or donate me (If you can).
 
 ## Me 
-1) (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white(https://t.me/Hellion_OP))
+1) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hellion_OP)
 2) [Github](https://github.com/Hellboy-Aaryan)
 3) [Twitter](https://twitter.com/Aaryan14032006)
