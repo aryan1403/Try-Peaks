@@ -5,7 +5,7 @@ I will Updating This Code in the Future for improved Code and better functionali
 
 # Language
   Try-Peaks is made in Pure Java ;)
-  [![java]img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white]
+  [![Java](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hellion_OP)
 
 # Getting Started
 1) Install JAVA
