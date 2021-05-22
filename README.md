@@ -37,7 +37,7 @@ This project is made for Educational purpose only. I have no problem if you kang
 # Support
 If you like my work you can Support me or donate me (If you can).
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white])]()
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white])](https://paypal.me/surinderkumar1492?locale.x=en_GB)
 
 ## Me 
 1) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hellion_OP)
