@@ -45,7 +45,6 @@ If you like my work you can Support me or donate me (If you can).
 3) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaryan14032006/)
 4) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1lFgnNb6sDbahGxmHBT7jQ)
 5) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hellboy-Aaryan)
-6) Email
 <table>
     <tr>
         <td>aaryan14032006@gmail.com</td>
