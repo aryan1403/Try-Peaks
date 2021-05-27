@@ -3,7 +3,7 @@
  
  Easy to Play and Run ;)
 
- I will Updating This Code in the Future for improved Code and better functionalities.
+ I will be Updating This Code in the Future for improved Code and better functionalities.
 
 ## Language
   Try-Peaks is made in Pure Java ;)
